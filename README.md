@@ -1,8 +1,8 @@
-<h1 align="center">¡Hola! 👋 Soy Flor Gubiotti</h1>
+<h1 align="center">Flor Gubiotti</h1>
 <h3 align="center">Fullstack Developer | Técnica Universitaria en Programación | Apasionada por el Frontend 💜</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif"/>
+  <img src="./Banner.png" width="400" alt="Banner Flor Gubiotti"/>
 </p>
 
 ---
