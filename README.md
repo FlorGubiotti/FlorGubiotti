@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | Técnica Universitaria en Programación | Apasionada por el Frontend 💜</h3>
 
 <p align="center">
-  <img src="./banner.png" width="400" alt="Banner Flor Gubiotti"/>
+  <img src="./Banner.png" width="400" alt="Banner Flor Gubiotti"/>
 </p>
 
 ---
