@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Flor Gubiotti</h1>
+<h1 align="center">Flor Gubiotti</h1>
 <h3 align="center">Fullstack Developer | Técnica Universitaria en Programación | Apasionada por el Frontend 💜</h3>
 
 <p align="center">
